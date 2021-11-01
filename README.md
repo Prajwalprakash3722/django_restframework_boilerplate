@@ -19,6 +19,7 @@ A simple boilerplate for creating RESTful API's using Django Rest Framework.
 
 **(Important change this password)**
 
-Username: admin
-Password: admin
-(How to Change Super User Password)[https://www.geekinsta.com/reset-admin-and-superuser-password-in-django/]
+- Username: admin
+- Password: admin<br/>
+  [How to Change Super User Password](https://www.geekinsta.com/reset-admin-and-superuser-password-in-django/)<br/>
+  [Generate New Django Secret Key](https://djecrety.ir/)
